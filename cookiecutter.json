@@ -1,0 +1,5 @@
+{
+    "project_name": "Data Engineering Project", 
+    "database": "postgres",
+    "api_endpoint": ""
+}
